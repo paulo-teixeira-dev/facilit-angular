@@ -1,0 +1,13 @@
+.form-helper-main{
+    width: 100%;
+    height: auto;
+    background: #FFF;
+    border: #DDD solid 1px;
+    box-sizing: border-box;
+    padding: 2em;
+    margin: 5em 0;
+}
+.tam-2{max-width:10em}
+.tam-5{max-width:25em}
+.tam-10{max-width:50em}
+.tam-full{max-width:100%}
